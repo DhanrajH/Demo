@@ -1,1 +1,1 @@
-test git qucik start demo
+test git quick start demo
